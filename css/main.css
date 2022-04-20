@@ -261,7 +261,7 @@ section {
 }
 
 .full-banner-sidebar {
-  flex: 0  0 41.666667%;
+  flex: 0 0 41.666667%;
   background-color: #364147;
   text-transform: uppercase;
   padding: 30px;
@@ -276,7 +276,7 @@ section {
   line-height: 1;
 }
 
-.full-banner-sidebar h4::after {
+.full-banner-sidebar h4:after {
   content: "";
   width: 100px;
   height: 1px;
